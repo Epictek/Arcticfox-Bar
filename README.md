@@ -1,6 +1,6 @@
-# Artic-Bar
-Display details from your mod running articfox on your system bar
+# ArcticFox Bar
 
-requires pyusb
+Display details from your Articfox device on your system bar.
 
-This is a WIP, will refactor the code in to classes and add temp control support later on.
+# Requirements
+articfox-python, can be installed with `pip install arcticfox`
